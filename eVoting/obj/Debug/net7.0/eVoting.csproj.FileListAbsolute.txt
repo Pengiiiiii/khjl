@@ -1,0 +1,14 @@
+C:\Users\JoRi\source\repos\eVoting\eVoting\bin\Debug\net7.0\eVoting.exe
+C:\Users\JoRi\source\repos\eVoting\eVoting\bin\Debug\net7.0\eVoting.deps.json
+C:\Users\JoRi\source\repos\eVoting\eVoting\bin\Debug\net7.0\eVoting.runtimeconfig.json
+C:\Users\JoRi\source\repos\eVoting\eVoting\bin\Debug\net7.0\eVoting.dll
+C:\Users\JoRi\source\repos\eVoting\eVoting\bin\Debug\net7.0\eVoting.pdb
+C:\Users\JoRi\source\repos\eVoting\eVoting\obj\Debug\net7.0\eVoting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoRi\source\repos\eVoting\eVoting\obj\Debug\net7.0\eVoting.AssemblyInfoInputs.cache
+C:\Users\JoRi\source\repos\eVoting\eVoting\obj\Debug\net7.0\eVoting.AssemblyInfo.cs
+C:\Users\JoRi\source\repos\eVoting\eVoting\obj\Debug\net7.0\eVoting.csproj.CoreCompileInputs.cache
+C:\Users\JoRi\source\repos\eVoting\eVoting\obj\Debug\net7.0\eVoting.dll
+C:\Users\JoRi\source\repos\eVoting\eVoting\obj\Debug\net7.0\refint\eVoting.dll
+C:\Users\JoRi\source\repos\eVoting\eVoting\obj\Debug\net7.0\eVoting.pdb
+C:\Users\JoRi\source\repos\eVoting\eVoting\obj\Debug\net7.0\eVoting.genruntimeconfig.cache
+C:\Users\JoRi\source\repos\eVoting\eVoting\obj\Debug\net7.0\ref\eVoting.dll
